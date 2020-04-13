@@ -4,7 +4,7 @@ languageCode = "en-us"
 title = "Omnibus Live"
 theme = "hugo-cactus-theme"
 # Enter your tracking code to enable Google Analytics
-# googleAnalytics = ""
+googleAnalytics = "UA-163514113-1"
 # Disable comments by leaving disqusShortname empty
 
 [params]
