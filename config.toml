@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://omnibus.live/"
+baseurl = "https://www.omnibus.live/"
 languageCode = "en-us"
 title = "Omnibus Live"
 theme = "hugo-cactus-theme"
@@ -52,7 +52,7 @@ googleAnalytics = "UA-163514113-1"
 
 [[menu.main]]
     name = "bounty.video"
-    url = "https://bounty.video/"
+    url = "https://www.bounty.video/"
     weight = 2
 [[menu.main]]
     name = "FIX API"
